@@ -14,13 +14,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class MainPageElementsTest extends TestBase {
 
-    @BeforeEach
-    void openUrl () {
-        step("Open url 'https://www.mercadona.es/'", () ->
-                open("https://www.mercadona.es/"));
-    }
-
-
     @Test
     @Description("Soon to be implemented by you (or QA.GURU engineers)")
     @DisplayName("Main page info")
@@ -74,6 +67,14 @@ public class MainPageElementsTest extends TestBase {
             String actualTitle = title();
 
             assertThat(actualTitle).isEqualTo(expectedTitle);
+        });
+    }
+    @Test
+    //@Disabled
+    void setPostalCode() {
+        step("", ()-> {
+            $(".input-text__label").sendKeys("33006");
+            $(".postal-code-form__button").click();
         });
     }
 

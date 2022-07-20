@@ -19,6 +19,7 @@ public class TestBase {
     @BeforeAll
     static void beforeAll() {
         DriverSettings.configure();
+        open("https://www.mercadona.es/");
     }
 
     @BeforeEach
