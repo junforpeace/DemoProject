@@ -1,6 +1,6 @@
-package cloud.autotests.tests;
+package mercadona.autotests.tests;
 
-import cloud.autotests.helpers.DriverUtils;
+import mercadona.autotests.helpers.DriverUtils;
 import com.codeborne.selenide.Condition;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.*;
@@ -14,8 +14,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class MainPageElementsTest extends TestBase {
 
-    @BeforeAll
-    static void openUrl () {
+    @BeforeEach
+    void openUrl () {
         step("Open url 'https://www.mercadona.es/'", () ->
                 open("https://www.mercadona.es/"));
     }
@@ -85,7 +85,6 @@ public class MainPageElementsTest extends TestBase {
         step("Console logs should not contain text 'SEVERE'", () -> {
             String consoleLogs = DriverUtils.getConsoleLogs();
             String errorText = "SEVERE";
-
             assertThat(consoleLogs).doesNotContain(errorText);
         });
     }

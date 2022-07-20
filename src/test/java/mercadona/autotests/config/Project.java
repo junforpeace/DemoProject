@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package mercadona.autotests.config;
 
 import org.aeonbits.owner.ConfigFactory;
 
@@ -12,8 +12,6 @@ public class Project {
     public static boolean isRemoteWebDriver() {
         return !config.remoteDriverUrl().equals("");
     }
-
-    public static boolean isVideoOn() {
-        return !config.videoStorage().equals("");
-    }
 }
+
+

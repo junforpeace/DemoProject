@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package mercadona.autotests.config;
 
 import org.aeonbits.owner.Config;
 
