@@ -7,10 +7,10 @@
 - <a href="#computer-сode_stack">Technology and tools</a>
 - <a href="#clipboard-Test-cases">Test-cases</a>
 - <a href="#Jenkins-job">Jenkins job</a>
-- <a href="#keyboard-запуск-из-терминала">Launch from terminal</a>
-- <a href="#bar_chart-allure-отчет">Test results report</a>
-- <a href="#robot-отчет-в-telegram">Telegram Bot Notifications</a>
-- <a href="#film_projector-видео-пример-прохождения-тестов">Example video of test-run in Selenoid</a>
+- <a href="#keyboard-launch-from-terminal">Launch from terminal</a>
+- <a href="#bar_chart-Test-results-report">Test results report</a>
+- <a href="#robot-Telegram-Bot-Notifications">Telegram Bot Notifications</a>
+- <a href="#film_projector-Example-video-of-test-run-in-Selenoid">Example video of test-run in Selenoid</a>
 
 ## :computer: Technology and tools
 <p align="left"> 
@@ -73,7 +73,7 @@ test
 > 
 > <code>THREADS</code> – number of threads.
 
-## <img width="4%" title="Allure Report" src="images/allurereport-logo.png"> Test results report in [Allure Report](https://jenkins.autotests.cloud/job/Student12_Diplom_DemoProject/14/allure/)
+## <img width="4%" title="Allure Report" src="images/allurereport-logo.png"> Test results report [Allure Report](https://jenkins.autotests.cloud/job/Student12_Diplom_DemoProject/14/allure/)
 
 ### :pushpin: Overview page Allure-report
 
