@@ -70,7 +70,7 @@ public class MainPageElementsTest extends TestBase {
         });
     }
     @Test
-    //@Disabled
+    @Disabled
     void setPostalCode() {
         step("", ()-> {
             $(".input-text__label").sendKeys("33006");
