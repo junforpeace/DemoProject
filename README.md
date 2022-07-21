@@ -9,7 +9,7 @@
 - <a href="#Jenkins-job">Jenkins job</a>
 - <a href="#keyboard-launch-from-terminal">Launch from terminal</a>
 - <a href="#bar_chart-Test-results-report">Test results report</a>
-- <a href="#robot-Telegram-Bot-Notifications">Telegram Bot Notifications</a>
+- <a href="#robot-Telegram">Telegram Bot Notifications</a>
 - <a href="#film_projector-Example-video-of-test-run-in-Selenoid">Example video of test-run in Selenoid</a>
 
 ## :computer: Technology and tools
