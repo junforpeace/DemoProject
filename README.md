@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/65370123/180198794-47f0d92e-321a-4890-ae74-431a715fc8ec.png)
 
 # Jenkins job
-[JENKINS]([https://jenkins.autotests.cloud/job/Student12_Diplom_DemoProject/])
+[JENKINS](https://jenkins.autotests.cloud/job/Student12_Diplom_DemoProject/)
 ![image](https://user-images.githubusercontent.com/65370123/180200201-86bbc089-6907-4a0d-8c20-423c930c7cee.png)
 
 
