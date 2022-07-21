@@ -75,21 +75,17 @@ test
 
 ### :pushpin: Overview page Allure-report
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/65370123/180204572-c68358b8-285f-458a-9577-744ce8d17815.png)
-</p>
 
 ### :pushpin: Behavior page
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/65370123/180204881-6121bc72-95aa-4a01-ab15-81627ad6b970.png)
-</p>
+
 
 ### :pushpin: Graph Page
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/65370123/180205230-8fdce665-70f7-4721-8de3-52b776ca6dc5.png)
-</p>
+
 
 
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
