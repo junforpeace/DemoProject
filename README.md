@@ -1,5 +1,6 @@
 # Project with automated tests for Mercadona web app (desktop)
 [Mercadona web page](https://www.mercadona.es/)
+![image](https://user-images.githubusercontent.com/65370123/180198794-47f0d92e-321a-4890-ae74-431a715fc8ec.png)
 
 # Jenkins job
 [JENKINS](https://jenkins.autotests.cloud/job/AUTO-1119/)
@@ -10,7 +11,7 @@
 ### For run remote tests need fill remote.properties or to pass value:
 
 * browser (default chrome)
-* browserVersion (default 89.0)
+* browserVersion (default 99.0)
 * browserSize (default 1920x1080)
 * browserMobileView (mobile device name, for example iPhone X)
 * remoteDriverUrl (url address from selenoid or grid)
