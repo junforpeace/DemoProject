@@ -96,6 +96,7 @@ test
 <p align="center">
 <img title="Telegram Notifications" src="images/screenshots/telegram-report.png">
 </p>
+![image](https://user-images.githubusercontent.com/65370123/180449515-9f5bc387-e099-4d3b-b9ad-35a6cf69c8a9.png)
 
 ## <img width="4%" title="Telegram" src="images/selenoid-logo.png"> Example video of test-run in Selenoid
 
