@@ -33,7 +33,7 @@
 - Check page title :heavy_check_mark:
 - Check postal code settting :soon:
 
-## ## <img width="4%" title="Allure Report" src="images/jenkins-logo.png"> Jenkins job
+## <img width="4%" title="Allure Report" src="images/jenkins-logo.png"> Jenkins job
 [JENKINS](https://jenkins.autotests.cloud/job/Student12_Diplom_DemoProject/)
 ![image](https://user-images.githubusercontent.com/65370123/180200201-86bbc089-6907-4a0d-8c20-423c930c7cee.png)
 ![image](https://user-images.githubusercontent.com/65370123/180200851-987bedd8-f403-4138-a058-3a375efac674.png)
