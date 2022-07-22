@@ -92,10 +92,10 @@ test
 
 ## <img width="4%" title="Telegram" src="images/Telegram_2019_Logo.svg.png"> Telegram Bot Notifications
 
-> When build is completed,  the message with test result will be sent by bot created in <code>Telegram</code> automatically 
-<p align="center">
+> When build is completed,  the message with test result is sent by bot created in <code>Telegram</code> automatically 
+
 <img title="Telegram Notifications" src="images/telegramnotify.png">
-</p>
+
 
 
 ## <img width="4%" title="Telegram" src="images/selenoid-logo.png"> Example video of test-run in Selenoid
