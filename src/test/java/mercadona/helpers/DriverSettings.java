@@ -1,6 +1,6 @@
-package mercadona.autotests.helpers;
+package mercadona.helpers;
 
-import mercadona.autotests.config.Project;
+import mercadona.config.Project;
 import com.codeborne.selenide.Configuration;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;

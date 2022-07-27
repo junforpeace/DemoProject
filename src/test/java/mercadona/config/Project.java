@@ -1,4 +1,4 @@
-package mercadona.autotests.config;
+package mercadona.config;
 
 import org.aeonbits.owner.ConfigFactory;
 

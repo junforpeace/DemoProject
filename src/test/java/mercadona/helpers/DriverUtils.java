@@ -1,6 +1,6 @@
-package mercadona.autotests.helpers;
+package mercadona.helpers;
 
-import mercadona.autotests.config.Project;
+import mercadona.config.Project;
 import com.codeborne.selenide.Selenide;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

@@ -1,7 +1,7 @@
-package mercadona.autotests.tests;
-import mercadona.autotests.helpers.AllureAttachments;
-import mercadona.autotests.helpers.DriverSettings;
-import mercadona.autotests.helpers.DriverUtils;
+package mercadona.tests;
+import mercadona.helpers.AllureAttachments;
+import mercadona.helpers.DriverSettings;
+import mercadona.helpers.DriverUtils;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.junit5.AllureJunit5;
 import io.qameta.allure.selenide.AllureSelenide;
@@ -9,7 +9,6 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.extension.ExtendWith;
-
 import static com.codeborne.selenide.Selenide.open;
 import static io.qameta.allure.Allure.step;
 
